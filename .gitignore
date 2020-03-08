@@ -1,0 +1,8 @@
+
+bin/
+gamesparks-cpp/bin/
+godot-cpp/bin
+*.obj
+*.lib
+*.dll
+*.a
